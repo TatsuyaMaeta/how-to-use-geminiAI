@@ -1,5 +1,13 @@
 # How to use gemini AI for free
 
+## summary
+Gemini AI's API has recently been released. The API is available free of charge to some extent, and I have created a python version of the procedure to use it.
+Please use it systematically.
+(Please do not regret to github your API key!!!)
+
+https://ai.google.dev/gemini-api/docs?_gl&hl=ja
+
+
 ## Pricing Model
 https://ai.google.dev/pricing?hl=ja#1_5flash
 
