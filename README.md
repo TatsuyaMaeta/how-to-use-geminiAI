@@ -8,8 +8,12 @@ Please use it systematically.
 https://ai.google.dev/gemini-api/docs?_gl&hl=ja
 
 
+
+[![参照画像1](./src/src1.png)](https://x.com/OfficialLoganK/status/1821601298195878323)
+
+
 ## Pricing Model
-https://ai.google.dev/pricing?hl=ja#1_5flash
+[![参照画像2](./src/src2.png)](https://ai.google.dev/pricing?hl=ja#1_5flash)
 
 | 項目                                  | 内容                                                                   |
 | :------------------------------------ | :--------------------------------------------------------------------- |
