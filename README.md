@@ -1,4 +1,4 @@
-# How to use gemini AI for free
+# How to use gemini AI API for free
 
 ## summary
 Gemini AI's API has recently been released. The API is available free of charge to some extent, and I have created a python version of the procedure to use it.
